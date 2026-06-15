@@ -84,7 +84,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 z-10" style={{ background: "linear-gradient(to right, rgba(10,10,10,0.85) 40%, rgba(10,10,10,0.6) 100%)" }} />
-          <div className="absolute inset-0 opacity-80" style={{ backgroundImage: "url('/hero-bg.jpg')", backgroundSize: "cover", backgroundPosition: "20% center" }} />
+          <div className="absolute inset-0 opacity-65" style={{ backgroundImage: "url('/hero-bg.jpg')", backgroundSize: "cover", backgroundPosition: "20% center" }} />
         </div>
         <motion.div className="container relative z-30 mx-auto px-6 md:px-12" style={{ y: y1, opacity }}>
           <div className="max-w-3xl">
