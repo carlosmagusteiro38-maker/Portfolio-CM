@@ -68,7 +68,7 @@ export default function Home() {
       <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;0,900;1,300;1,700&display=swap" rel="stylesheet" />
 
       {/* Navigation */}
-      <nav className={`fixed top-0 w-full z-50 transition-all duration-500 ${isScrolled ? "bg-[#0a0a0a]/95 backdrop-blur-md border-b border-white/5 py-4" : "bg-transparent py-6"}`}>
+      <nav className={`fixed top-0 w-full z-50 transition-all duration-500 ${isScrolled ? "bg-[#0a0a0a]/95 backdrop-blur-md border-b border-white/5 py-4" : "bg-[#0a0a0a]/80 py-6"}`}>
         <div className="container mx-auto px-6 md:px-12 flex justify-between items-center">
           <img src="/logo.svg" alt="Carlos Magusteiro" className="h-7 w-auto" />
           <div className="hidden md:flex items-center space-x-8 text-sm font-medium">
@@ -88,15 +88,15 @@ export default function Home() {
           <div className="absolute inset-0 z-10" style={{ background: "linear-gradient(to right, rgba(10,10,10,0.9) 50%, rgba(10,10,10,0.55) 100%)" }} />
           <div className="absolute inset-0 opacity-40" style={{ backgroundImage: "url('/hero-bg.jpg')", backgroundSize: "cover", backgroundPosition: "20% center" }} />
         </div>
-        <motion.div className="container relative z-30 mx-auto px-6 md:px-12" style={{ y: y1, opacity }}>
+        <motion.div className="container relative z-30 mx-auto px-6 md:px-12 pt-20 md:pt-0" style={{ y: y1, opacity }}>
           <div className="max-w-3xl">
             <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }} className="flex items-center space-x-4 mb-14">
               <div className="h-[2px] w-10" style={{ backgroundColor: RED }} />
               <span className="uppercase tracking-widest text-xs font-bold" style={{ color: RED }}>Monteur Vidéo Freelance</span>
             </motion.div>
             <motion.h1 initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.1 }} className="leading-[0.9] mb-4">
-              <span className="block" style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 900, fontSize: "clamp(80px, 8vw, 120px)" }}>DES VIDÉOS</span>
-              <span className="block" style={{ fontFamily: "'Poppins', sans-serif", fontSize: "clamp(80px, 8vw, 90px)" }}>
+              <span className="block" style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 900, fontSize: "clamp(36px, 8vw, 120px)" }}>DES VIDÉOS</span>
+              <span className="block" style={{ fontFamily: "'Poppins', sans-serif", fontSize: "clamp(36px, 8vw, 90px)" }}>
                 <span style={{ fontWeight: 300 }}>QUI </span><span style={{ fontWeight: 700 }}>MARQUENT.</span>
               </span>
             </motion.h1>
