@@ -19,6 +19,8 @@ const projects: Project[] = [
   { id: 2, title: "GIANTS - Jean-Christophe CONTICELLO - 16:9", tab: "ADS", image: "https://img.youtube.com/vi/1OrTTVlXfNg/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/1OrTTVlXfNg", videoAspect: "16:9" },
   { id: 16, title: "GIANTS - Jean-Christophe CONTICELLO - 9:16", tab: "ADS", image: "https://img.youtube.com/vi/UOaFdANIvdU/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/UOaFdANIvdU", videoAspect: "9:16" },
   { id: 3, title: "Papa In Shape - Pierre BOUIN", tab: "ADS", image: "https://img.youtube.com/vi/q1MWD2geLJw/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/q1MWD2geLJw" },
+  { id: 4, title: "ADS - Litière PACHA - 4:5", tab: "ADS", image: "https://img.youtube.com/vi/_r2owHDCpK0/hqdefault.jpg", videoUrl: "https://youtube.com/embed/_r2owHDCpK0", videoAspect: "4:5" },
+  { id: 5, title: "ADS - Litière PACHA - 9:16", tab: "ADS", image: "https://img.youtube.com/vi/1iF2LCQYGV8/hqdefault.jpg", videoUrl: "https://youtube.com/embed/1iF2LCQYGV8", videoAspect: "9:16" },
   { id: 17, title: "Le Copywriter - Théo ROSSI", tab: "ADS", image: "https://img.youtube.com/vi/nymo_88u6Lw/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/nymo_88u6Lw" },
   { id: 20, title: "Learn Immobilier - Cyrille & Lionel", tab: "ADS", image: "https://img.youtube.com/vi/GaRZW0G6D5M/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/GaRZW0G6D5M", videoAspect: "9:16" },
   { id: 21, title: "Entrepreneurs.com — Alec HENRY", image: "https://img.youtube.com/vi/1oBBriR4LD8/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/1oBBriR4LD8", videoAspect: "9:16" },
