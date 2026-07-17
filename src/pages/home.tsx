@@ -39,7 +39,7 @@ const projects: Project[] = [
   { id: 14, title: "Reds League - Qui rendra fier l'Afrique ?", tab: "Miniatures", image: "/images/Minia-Afrique-CDM2026.png" },
   { id: 18, title: "Harry JMG - Développeur ! Pourquoi t'es au Chômage ?", tab: "Miniatures", image: "/images/minia-harry-jmg.jpg" },
   { id: 19, title: "LMOR - IA, Argent, Jalousie — Ça change la vie ?", tab: "Miniatures", image: "/images/minia-lmor.jpg" },
-  { id: 20, title: "CCI TALK - Création d'entreprise : de l'idée au succès !", tab: "Podcast", image: "https://i9.ytimg.com/vi/PlIR2s2WpRI/mqdefault.jpg", videoUrl: "https://www.youtube.com/embed/PlIR2s2WpRI", videoAspect: "16:9" },
+  { id: 20, title: "CCI TALK - Création d'entreprise : de l'idée au succès !", tab: "Podcast", image: "https://img.youtube.com/vi/PlIR2s2WpRI/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/PlIR2s2WpRI", videoAspect: "16:9" },
 ];
 
 const RED = "#db142b";
