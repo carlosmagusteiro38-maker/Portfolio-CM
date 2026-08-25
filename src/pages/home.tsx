@@ -41,7 +41,7 @@ const projects: Project[] = [
   { id: 24, title: "LMOR - IA, Argent, Jalousie — Ça change la vie ?", tab: "Miniatures", image: "/images/minia-lmor.jpg" },
   { id: 25, title: "CCI TALK - Création d'entreprise : de l'idée au succès !", tab: "Miniatures", image: "/images/CCI-Talk-Minia.png" },
   { id: 26, title: "CCI TALK - Création d'entreprise : de l'idée au succès !", tab: "Podcast", image: "https://img.youtube.com/vi/PlIR2s2WpRI/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/PlIR2s2WpRI", videoAspect: "16:9" },
-  { id: 27, title: "ZERO BLUFF - 5K6 Max Jour 1", tab: "Miniatures", image: "/images/CCI-Talk-Minia.png" },
+  { id: 27, title: "ZERO BLUFF - 5K6 Max Jour 1", tab: "Miniatures", image: "/images/Minia Jour 1.png" },
   { id: 28, title: "ZERO BLUFF - 5K6 Max Jour 1", tab: "Poker", image: "https://img.youtube.com/vi/7V_BxptoVl0/hqdefault.jpg", videoUrl: "https://youtu.be/embed/7V_BxptoVl0", videoAspect: "16:9" },
 ];
 
