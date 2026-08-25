@@ -43,6 +43,10 @@ const projects: Project[] = [
   { id: 26, title: "CCI TALK - Création d'entreprise : de l'idée au succès !", tab: "Podcast", image: "https://img.youtube.com/vi/PlIR2s2WpRI/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/PlIR2s2WpRI", videoAspect: "16:9" },
   { id: 27, title: "ZERO BLUFF - 5K6 Max Jour 1", tab: "Miniatures", image: "/images/Minia Jour 1.png" },
   { id: 28, title: "ZERO BLUFF - 5K6 Max Jour 1", tab: "Poker", image: "https://img.youtube.com/vi/7V_BxptoVl0/hqdefault.jpg", videoUrl: "https://youtu.be/embed/7V_BxptoVl0", videoAspect: "16:9" },
+  { id: 30, title: "ZERO BLUFF - 5K6 Max Jour 2", tab: "Miniatures", image: "/images/Minia Jour 2.png" },
+  { id: 31, title: "ZERO BLUFF - 5K6 Max Jour 2", tab: "Poker", image: "https://img.youtube.com/vi/2ufUhRzLoHo/hqdefault.jpg", videoUrl: "https://youtu.be/embed/2ufUhRzLoHo", videoAspect: "16:9" },
+  { id: 32, title: "ZERO BLUFF - 5K6 Max Jour 3", tab: "Miniatures", image: "/images/Minia Jour 3.png" },
+  { id: 33, title: "ZERO BLUFF - 5K6 Max Jour 3", tab: "Poker", image: "https://img.youtube.com/vi/AkMMzL_8dYk/hqdefault.jpg", videoUrl: "https://youtu.be/embed/AkMMzL_8dYk", videoAspect: "16:9" },
 ];
 
 const RED = "#db142b";
