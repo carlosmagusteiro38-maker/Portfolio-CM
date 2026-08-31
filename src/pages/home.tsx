@@ -100,7 +100,7 @@ export default function Home() {
           <div className="max-w-3xl">
             <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }} className="flex items-center space-x-4 mb-14">
               <div className="h-[2px] w-10" style={{ backgroundColor: RED }} />
-              <span className="uppercase tracking-widest text-s font-bold" style={{ color: RED }}>Monteur Vidéo & Minia Maker Freelance</span>
+              <span className="uppercase tracking-widest text-m font-bold" style={{ color: RED }}>Monteur Vidéo & Minia Maker Freelance</span>
             </motion.div>
             <motion.h1 initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.1 }} className="leading-[0.9] mb-4">
               <span className="block" style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 900, fontSize: "clamp(36px, 8vw, 120px)" }}>DES VIDÉOS</span>
