@@ -47,6 +47,9 @@ const projects: Project[] = [
   { id: 31, title: "ZERO BLUFF - 5K6 Max Jour 2", tab: "Poker", image: "https://img.youtube.com/vi/2ufUhRzLoHo/hqdefault.jpg", videoUrl: "https://youtube.com/embed/2ufUhRzLoHo", videoAspect: "16:9" },
   { id: 32, title: "ZERO BLUFF - 5K6 Max Jour 3", tab: "Miniatures", image: "/images/Minia Jour 3.png" },
   { id: 33, title: "ZERO BLUFF - 5K6 Max Jour 3", tab: "Poker", image: "https://img.youtube.com/vi/AkMMzL_8dYk/hqdefault.jpg", videoUrl: "https://youtube.com/embed/AkMMzL_8dYk", videoAspect: "16:9" },
+  { id: 34, title: "STUDERIA - 3 services IA que tu peux vendre cette semaine", tab: "ADS", image: "https://img.youtube.com/vi/6SME37ZUwQ0/hqdefault.jpg", videoUrl: "https://youtube.com/embed/6SME37ZUwQ0", videoAspect: "9:16" },
+  { id: 35, title: "STUDERIA - 9 heures tu ouvres, 11 heures tu as fini", tab: "ADS", image: "https://img.youtube.com/vi/OP1p94RAiPM/hqdefault.jpg", videoUrl: "https://youtube.com/embed/OP1p94RAiPM", videoAspect: "9:16" },
+  { id: 36, title: "STUDERIA -  L'IA va remplacer les freelances", tab: "ADS", image: "https://img.youtube.com/vi/F0YvkNF6pzY/hqdefault.jpg", videoUrl: "https://youtube.com/embed/F0YvkNF6pzY", videoAspect: "9:16" },
 ];
 
 const RED = "#db142b";
