@@ -53,6 +53,9 @@ const projects: Project[] = [
   { id: 37, title: "Ben Study Tips - Rewordify", tab: "Reels", image: "https://img.youtube.com/vi/oGZGaMjaAUs/hqdefault.jpg", videoUrl: "https://youtube.com/embed/oGZGaMjaAUs", videoAspect: "9:16" },
   { id: 38, title: "Marcuus Lawrence - E-commerce/Claude IA - Part.1", tab: "ADS", image: "https://img.youtube.com/vi/8hNIgLSpsZc/hqdefault.jpg", videoUrl: "https://youtube.com/embed/8hNIgLSpsZc", videoAspect: "9:16" },
   { id: 39, title: "Marcuus Lawrence - E-commerce/Claude IA - Part.2", tab: "ADS", image: "https://img.youtube.com/vi/LIGaltpxiaM/hqdefault.jpg", videoUrl: "https://youtube.com/embed/LIGaltpxiaM", videoAspect: "9:16" },
+  { id: 40, title: "VIRALIZ - Margot 1", tab: "ADS", image: "https://img.youtube.com/vi/aPUL-6qtL_Y/hqdefault.jpg", videoUrl: "https://youtube.com/embed/aPUL-6qtL_Y", videoAspect: "9:16" },
+  { id: 41, title: "VIRALIZ - Lou 1", tab: "ADS", image: "https://img.youtube.com/vi/QZyFpDE3PH4/hqdefault.jpg", videoUrl: "https://youtube.com/embed/QZyFpDE3PH4", videoAspect: "9:16" },
+  { id: 42, title: "VIRALIZ - Keno 1", tab: "ADS", image: "https://img.youtube.com/vi/kphZx82C4I0/hqdefault.jpg", videoUrl: "https://youtube.com/embed/kphZx82C4I0", videoAspect: "9:16" },
 ];
 
 const RED = "#db142b";
