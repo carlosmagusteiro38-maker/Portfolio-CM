@@ -24,6 +24,7 @@ const projects: Project[] = [
   { id: 40, title: "VIRALIZ - Margot 1", tab: "ADS", image: "https://img.youtube.com/vi/aPUL-6qtL_Y/hqdefault.jpg", videoUrl: "https://youtube.com/embed/aPUL-6qtL_Y", videoAspect: "9:16" },
   { id: 41, title: "VIRALIZ - Lou 1", tab: "ADS", image: "https://img.youtube.com/vi/QZyFpDE3PH4/hqdefault.jpg", videoUrl: "https://youtube.com/embed/QZyFpDE3PH4", videoAspect: "9:16" },
   { id: 42, title: "VIRALIZ - Keno 1", tab: "ADS", image: "https://img.youtube.com/vi/kphZx82C4I0/hqdefault.jpg", videoUrl: "https://youtube.com/embed/kphZx82C4I0", videoAspect: "9:16" },
+  { id: 43, title: "Los Production - Tournée HOMMAGE BALAVOINE", tab: "Reels", image: "https://img.youtube.com/vi/gHT1DUOKm8Q/hqdefault.jpg", videoUrl: "https://youtube.com/embed/gHT1DUOKm8Q", videoAspect: "9:16" },
   { id: 1, title: "Arthaud Immobilier - Carolin ARTHAUD", tab: "ADS", image: "https://img.youtube.com/vi/gEuay8qXhAU/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/gEuay8qXhAU" },
   { id: 2, title: "GIANTS - Jean-Christophe CONTICELLO - 16:9", tab: "ADS", image: "https://img.youtube.com/vi/1OrTTVlXfNg/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/1OrTTVlXfNg", videoAspect: "16:9" },
   { id: 3, title: "GIANTS - Jean-Christophe CONTICELLO - 9:16", tab: "ADS", image: "https://img.youtube.com/vi/UOaFdANIvdU/hqdefault.jpg", videoUrl: "https://www.youtube.com/embed/UOaFdANIvdU", videoAspect: "9:16" },
