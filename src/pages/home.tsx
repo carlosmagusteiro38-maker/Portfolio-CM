@@ -15,10 +15,16 @@ type Project = {
 const portfolioTabs = ["ADS", "Podcast", "Reels", "Poker", "Miniatures"] as const;
 
 const projects: Project[] = [
+  { id: 44, title: "Tournée HOMMAGE BALAVOINE - Los Production - Reel 2", tab: "Reels", image: "https://img.youtube.com/vi/jEx3PiM956s/hqdefault.jpg", videoUrl: "https://youtube.com/embed/jEx3PiM956s", videoAspect: "9:16" },
+  { id: 45, title: "Tournée HOMMAGE BALAVOINE - Los Production - Reel 3", tab: "Reels", image: "https://img.youtube.com/vi/1mskiLwHHBA/hqdefault.jpg", videoUrl: "https://youtube.com/embed/1mskiLwHHBA", videoAspect: "9:16" },
+  { id: 46, title: "Tournée HOMMAGE BALAVOINE - Los Production - Reel 4", tab: "Reels", image: "https://img.youtube.com/vi/feouptc_JSE/hqdefault.jpg", videoUrl: "https://youtube.com/embed/feouptc_JSE", videoAspect: "9:16" },
+  { id: 47, title: "Tournée HOMMAGE BALAVOINE - Los Production - Reel 5", tab: "Reels", image: "https://img.youtube.com/vi/ylIhOiLeG3o/hqdefault.jpg", videoUrl: "https://youtube.com/embed/ylIhOiLeG3o", videoAspect: "9:16" },
+  { id: 48, title: "Tournée HOMMAGE BALAVOINE - Los Production - Reel 6", tab: "Reels", image: "https://img.youtube.com/vi/g8dxIHkcn6E/hqdefault.jpg", videoUrl: "https://youtube.com/embed/g8dxIHkcn6E", videoAspect: "9:16" },
+  { id: 49, title: "Tournée HOMMAGE BALAVOINE - Los Production - Reel 7", tab: "Reels", image: "https://img.youtube.com/vi/vCOK30P4bC0/hqdefault.jpg", videoUrl: "https://youtube.com/embed/vCOK30P4bC0", videoAspect: "9:16" },
   { id: 34, title: "STUDERIA - 3 services IA que tu peux vendre cette semaine", tab: "ADS", image: "https://img.youtube.com/vi/6SME37ZUwQ0/hqdefault.jpg", videoUrl: "https://youtube.com/embed/6SME37ZUwQ0", videoAspect: "9:16" },
   { id: 35, title: "STUDERIA - 9 heures tu ouvres, 11 heures tu as fini", tab: "ADS", image: "https://img.youtube.com/vi/OP1p94RAiPM/hqdefault.jpg", videoUrl: "https://youtube.com/embed/OP1p94RAiPM", videoAspect: "9:16" },
   { id: 36, title: "STUDERIA -  L'IA va remplacer les freelances", tab: "ADS", image: "https://img.youtube.com/vi/F0YvkNF6pzY/hqdefault.jpg", videoUrl: "https://youtube.com/embed/F0YvkNF6pzY", videoAspect: "9:16" },
-  { id: 37, title: "Los Production - Tournée HOMMAGE BALAVOINE", tab: "Reels", image: "https://img.youtube.com/vi/gHT1DUOKm8Q/hqdefault.jpg", videoUrl: "https://youtube.com/embed/gHT1DUOKm8Q", videoAspect: "9:16" },
+  { id: 37, title: "Tournée HOMMAGE BALAVOINE - Los Production - Reel 1", tab: "Reels", image: "https://img.youtube.com/vi/gHT1DUOKm8Q/hqdefault.jpg", videoUrl: "https://youtube.com/embed/gHT1DUOKm8Q", videoAspect: "9:16" },
   { id: 38, title: "Marcuus Lawrence - E-commerce/Claude IA - Part.1", tab: "ADS", image: "https://img.youtube.com/vi/8hNIgLSpsZc/hqdefault.jpg", videoUrl: "https://youtube.com/embed/8hNIgLSpsZc", videoAspect: "9:16" },
   { id: 39, title: "Marcuus Lawrence - E-commerce/Claude IA - Part.2", tab: "ADS", image: "https://img.youtube.com/vi/LIGaltpxiaM/hqdefault.jpg", videoUrl: "https://youtube.com/embed/LIGaltpxiaM", videoAspect: "9:16" },
   { id: 40, title: "VIRALIZ - Margot 1", tab: "ADS", image: "https://img.youtube.com/vi/aPUL-6qtL_Y/hqdefault.jpg", videoUrl: "https://youtube.com/embed/aPUL-6qtL_Y", videoAspect: "9:16" },
