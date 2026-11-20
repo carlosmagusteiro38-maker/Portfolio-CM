@@ -79,7 +79,7 @@ const projects: Project[] = [
 
 // Clients réels présents dans le portfolio — affichés en bandeau défilant (preuve sociale)
 const clients = [
-  "KOZA Agence", "STUDERIA", "VIRALIZ", "GIANTS", "Arthaud Immobilier", "Learn Immobilier", "Entrepreneurs.com",
+  "KOZA Agence", "STUDERIA", "VIRALIZ", "Jean-Christophe CONTICELLO - GIANTS", "Arthaud Immobilier", "Learn Immobilier", "Entrepreneurs.com",
   "Le Million ou Rien", "CCI Talk", "Papa In Shape", "Litière PACHA", "Le Copywriter",
   "Harry JMG", "Reds League", "Zero Bluff", "Los Production", "Marcuus Lawrence",
 ];
